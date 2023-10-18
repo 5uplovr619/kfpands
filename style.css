@@ -1,0 +1,58 @@
+html {
+  background: url("img/kungfupandabackground.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(red, green, blue, 0.7);
+  width: 600px;
+  margin: 25px auto;
+  text-align: center;
+  padding: 50px 0;
+  border-radius: 25px;
+}
+
+h1,
+h2 {
+  font-family: papyrus;
+}
+h1 {
+  margin: 40px 0;
+}
+
+.img-p {
+  padding: 50px 0 0;
+}
+
+input {
+  font-size: 18px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: rgb(72, 116, 63);
+  color: white;
+  padding: 5px 15px;
+  font-variant: small-caps;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(114, 173, 102);
+  cursor: pointer;
+}
+
+.green {
+  background-color: rgba(72, 116, 63, 0.7);
+  color: white;
+  padding: 20px 0;
+  border-radius: 0 0 25px 25px;
+}
+
+.pages {
+  border: 2px solid black;
+  background: rgba(218, 58, 125, 0.5);
+  padding: 20px;
+  text-decoration: none;
+}

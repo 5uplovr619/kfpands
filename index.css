@@ -1,0 +1,20 @@
+html {
+  background: url("img/kungfupandabackground.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+img {
+  padding: auto;
+  margin-left: 300px;
+}
+
+h1 {
+  margin-left: 650px;
+}
+
+div {
+  border: 5px solid purple;
+  padding: auto;
+  border-radius: 25px;
+  background: rgb(218, 58, 125);
+}
